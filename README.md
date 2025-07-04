@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a54b6183-5484-4455-89db-083b8a66e11a)# SQLMAP-GUI-Pro
+# SQLMAP-GUI-Pro
 SQLMAP-GUI-Pro
 注意：本工具只支持Linux环境下正常使用
 ![image](https://github.com/user-attachments/assets/a64b8c1f-330b-4ffd-bc1e-22261e779727)
