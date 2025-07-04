@@ -19,7 +19,8 @@ SQLMAP-GUI-Pro
 
 
 本项目的工具通过调用 sqlmap 实现 SQL 注入，因此本工具支持与 sqlmap 相同的SQL 注入类型。
-![image](https://github.com/user-attachments/assets/bc5ed68d-5447-4b03-a035-4ee9780f5732)
+![image](https://github.com/user-attachments/assets/231f8609-71af-4d5e-b243-c4942672407a)
+
 
 在本项目中，采用了一系列关键技术来实现 SQL 注入测试工具的功能。这些技术点不仅支持了工具的核心功能，还提升了用户体验和操作的灵活性。
 
